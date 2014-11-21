@@ -1,0 +1,42 @@
+Afghanistan, 102, 153, 51
+Alaska, 255, 204, 102
+Alberta, 255, 207, 105
+Argentina, 2, 204, 152
+Eastern Australia, 152, 100, 254
+Egypt, 157, 102, 49
+Iceland, 0, 102, 255
+India, 100, 152, 48
+Irkutsk, 106, 159, 53
+Japan, 106, 162, 50
+Madagascar, 150, 99, 50
+North Africa, 153, 102, 51
+Western Europe, 0, 94, 242
+Western United States, 252, 203, 96
+Central America, 253, 207, 107
+China, 100, 154, 46
+Congo, 153,99, 47
+Great Britain, 0, 97, 248
+Greenland, 255, 209, 111
+Indonesia, 153, 102, 255
+Kamchatcka, 100, 149, 51
+New Guinea, 156, 105, 255
+Northern Europe, 2, 95, 240
+Ontario, 255, 203, 93
+Peru, 0, 206, 153
+Southern Europe, 2, 92, 234
+Ural, 96, 146, 46
+Yakutsk, 103, 155, 51
+Brazil,0, 212, 157
+East Africa, 158, 102, 48
+Eastern United States, 253, 205, 101
+Middle East, 103, 157, 49
+Mongolia, 106, 161, 51
+Northwest Territory, 255, 205, 99
+Scandanavia, 1, 100, 255
+Siam, 96, 148, 44
+Siberia, 100, 150, 50
+South Africa, 152, 99, 48
+Quebec, 255, 203, 93
+Ukraine, 7, 104, 255
+Venezuela, 0, 204, 153
+Western Australia, 156, 106, 254

@@ -1,0 +1,180 @@
+Asia,7
+Afghanistan
+China,India,Middle East,Ukraine,Ural
+102,153,51
+472,142
+China
+Afghanistan,India,Mongolia,Siam,Ural,Siberia
+100,154,46
+547,171
+India
+Afghanistan,China,Middle East,Siam
+100,152,48
+492,217
+Irkutsk
+Kamchatka,Mongolia,Siberia,Yakutsk
+106,159,53
+578,90
+Japan
+Kamchatka,Mongolia
+106,162,50
+644,150
+Kamchatka
+Alaska,Irkutsk,Japan,Mongolia,Yakutsk
+100,149,51
+613,93
+Middle East
+Afghanistan,East Africa,Egypt,India,Southern Europe,Ukraine
+103,157,49
+418,194
+Mongolia
+China,Irkutsk,Japan,Kamchatka,Siberia
+106,161,51
+571,132
+Siam
+China,India,Indonesia
+96,148,44
+547,222
+Siberia
+China,Irkutsk,Mongolia,Ural,Yakutsk
+100,150,50
+533,70
+Ural
+Afghanistan,China,Siberia,Ukraine
+96,146,46
+479,66
+Yakutsk
+Irkutsk,Kamchatka,Siberia
+103,155,51
+578,33
+--End--
+Africa,3
+East Africa
+Congo,Egypt,Madagascar,Middle East,South Africa
+158,102,48
+393,253
+Egypt
+East Africa,Middle East,North Africa,Southern Europe
+157,102,49
+353,208
+Congo
+East Africa,North Africa,South Africa
+153,99,47
+358,287
+Madagascar
+East Africa,South Africa
+150,99,50
+423,345
+North Africa
+Brazil,Egypt,Western Europe,Congo
+153,102,51
+298,230
+South Africa
+Congo,East Africa,Madagascar
+152,99,48
+367,351
+--End--
+Australia,2
+Eastern Australia
+New Guinea,Western Australia
+152,100,254
+642,367
+Indonesia
+New Guinea,Siam,Western Australia
+153,102,255
+574,285
+New Guinea
+Eastern Australia,Indonesia,Western Australia
+156,105,255
+643,294
+Western Australia
+Eastern Australia,Indonesia,New Guinea
+156,106,254
+592,359
+--End--
+Europe,5
+Great Britain
+Iceland,Northern Europe,Scandinavia,Western Europe
+0,97,248
+278,93
+Iceland
+Great Britain,Greenland,Scandinavia
+0,102,255
+250,64
+Northern Europe
+Great Britain,Scandinavia,Southern Europe,Ukraine,Western Europe
+2,95,240
+343,105
+Scandinavia
+Great Britain,Iceland,Northern Europe,Ukraine
+1,100,255
+356,42
+Southern Europe
+Egypt,Middle East,Northern Europe,Ukraine,Western Europe
+2,92,234
+363,136
+Ukraine
+Afghanistan,Middle East,Northern Europe,Scandinavia,Southern Europe,Ural
+7,104,255
+418,83
+Western Europe
+Great Britain,North Africa,Northern Europe,Southern Europe
+0,94,242
+284,153
+--End--
+North America,5
+Alaska
+Alberta,Kamchatka,Northwest Territory
+255,204,102
+42,61
+Alberta
+Alaska,Northwest Territory,Ontario,Western United States
+255,207,105
+82,103
+Central America
+Eastern United States,Venezuela,Western United States
+253,207,107
+124,220
+Eastern United States
+Central America,Ontario,Quebec,Western United States
+253,205,101
+152,164
+Greenland
+Iceland,Northwest Territory,Ontario,Quebec
+255,209,111
+216,28
+Northwest Territory
+Alaska,Alberta,Greenland,Ontario
+255,205,99
+104,60
+Ontario
+Alberta,Eastern United States,Greenland,Northwest Territory,Quebec,Western United States
+254,205,100
+138,109
+Quebec
+Eastern United States,Greenland,Ontario
+255,203,93
+200,114
+Western United States
+Alberta,Central America,Eastern United States,Ontario
+252,203,96
+102,156
+--End--
+South America,2
+Argentina
+Brazil,Peru
+2,204,152
+194,362
+Brazil
+Argentina,North Africa,Peru,Venezuela
+0,212,157
+221,301
+Peru
+Argentina,Brazil,Venezuela
+0,206,153
+175,308
+Venezuela
+Brazil,Central America,Peru
+0,204,153
+178,260
+--End--

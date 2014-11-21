@@ -1,0 +1,44 @@
+Afghanistan,0
+Alaska,0
+Alberta,0
+Argentina,0
+Eastern Australia,0
+Egypt,0
+Iceland,0
+India,0
+Irkutsk,0
+Japan,0
+Madagascar,0
+North Africa,0
+Western Europe,0
+Western United States,0
+Central America,1
+China,1
+Congo,1
+Great Britain,1
+Greenland,1
+Indonesia,1
+Kamchatcka,1
+New Guinea,1
+Northern Europe,1
+Ontario,1
+Peru,1
+Southern Europe,1
+Ural,1
+Yakutsk,1
+Brazil,2
+East Africa,2
+Eastern United States,2
+Middle East,2
+Mongolia,2
+Northwest Territory,2
+Scandanavia,2
+Siam,2
+Siberia,2
+South Africa,2
+Quebec,2
+Ukraine,2
+Venezuela,2
+Western Australia,2
+Wild Card,3
+Wild Card,3
